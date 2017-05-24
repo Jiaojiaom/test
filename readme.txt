@@ -1,1 +1,1 @@
-branch management is quick and simple.
+modify is quick and simple.
