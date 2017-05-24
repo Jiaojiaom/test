@@ -1,1 +1,1 @@
-branch management is quick and simple.
+xxx is quick and simple.
